@@ -18,7 +18,7 @@ I play various rhythm games, especially arcade ones. They are a niche genre of v
 - [LucidSpace](https://github.com/skielred/LucidSpace) is a fork of a skin for USC, a PC clone of the arcade rhythm game SDVX: an attempt at making a feature-complete and beautiful skin that is not rip-off of SDVX
 - [KeysManiac](https://github.com/skielred/KeysManiac) is a simple keyboard based rhythm game developped with pyglet
 - [SAScrapper](https://github.com/asso-msn/SAScrapper) is a tool to fetch SDVX's Skill Analyzer courses from the website BEMANIWiki 2nd in a machine-readable format
-- [coffee break](https://github.com/asso-msn/coffee-break) is an upcoming tool to generate good-looking scorecards for any rhythm games, inspired by arcade games
+- [coffee break](https://github.com/asso-msn/coffee-break) is a tool to generate good-looking scorecards for any rhythm games, inspired by arcade games
 
 I recommend [this video](https://www.youtube.com/watch?v=ECz-8GCVEJ0) if you want to get into rhythm games.
 
