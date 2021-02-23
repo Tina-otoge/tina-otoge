@@ -28,9 +28,11 @@ You can reach me on
 - Twitter [@Shookaite](https://twitter.com/Shookaite)
 - Discord **Tina#1998**
 
+<!--
 ## 💼 Work
 
 I'm currently looking for 4 to 6 months fulltime internship. For serious offers, contact me at [savatier.damien@gmail.com](mailto://savatier.damien@gmail.com).
 I can do backend and frontend development, as well as software and system development. My strong skills are web technologies and Python.
 
 I'm geographically located in the south east of Paris region, close to Paris itself. I can commute using public transportation, but I also own a car and am on my way to get my driving license! :car:
+-->
