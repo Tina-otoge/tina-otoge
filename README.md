@@ -25,7 +25,7 @@ I recommend [this video](https://www.youtube.com/watch?v=ECz-8GCVEJ0) if you wan
 ## 💬 Socializing
 
 You can reach me on
-- Twitter [@Shookaite](https://twitter.com/Shookaite)
+- Twitter [@Tina_otoge](https://twitter.com/Tina_otoge)
 - Discord **Tina#1998**
 
 <!--
