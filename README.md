@@ -5,11 +5,11 @@ I am Damien, also known as Tina on the web. I'm a French computer science studen
 ## :computer: Computers
 
 Most of my recent experiences are with C, C++ and Python. I also have a long-running background of working with PHP.  
-- I like working with the Python web *microframework* [Flask](https://palletsprojects.com/p/flask/), most of my recent personal projects use it
-- I have worked with the PHP web framework [Drupal](https://www.drupal.org/) during a recent internship in 2018-2019
-- For graphics, I like using [SFML](https://www.sfml-dev.org/) when working with C++ or C, and [pyglet](http://pyglet.org/) when working with Python
+- I like working with the Python web *microframework* [Flask](https://palletsprojects.com/p/flask/), I used it during an internship in 2021 and most of my recent personal projects use either that or [FastAPI](https://fastapi.tiangolo.com/).
+- I have worked with the PHP web framework [Drupal](https://www.drupal.org/) during an internship in 2018-2019.
+- For graphics, I like using [SFML](https://www.sfml-dev.org/) when working with C++ or C, and [pyglet](http://pyglet.org/) when working with Python. I worked with them both for school projects and personal projects.
 
-I consider myself a Linux hobbyist, I'm using Linux fulltime since 2017 as my daily driver. I use it for programming, but also gaming, computer graphics, video editing, and any other daily tasks I do on my computer. I particularly love [Vim](https://vim.org), [Fedora](https://getfedora.org/) and tiling window managers. My Linux configuration is available on [my dotfiles repository](https://github.com/Tina-otoge/Dotfiles/).
+I consider myself a Linux hobbyist, I'm using Linux fulltime since 2017 as my daily driver, and have been using it on servers since 2013 before that. I use it for programming, but also gaming, computer graphics, video editing, and any other daily tasks I do on my computer. I particularly love [Vim](https://vim.org), [Fedora](https://getfedora.org/) and tiling window managers. My Linux configuration is available on [my dotfiles repository](https://github.com/Tina-otoge/Dotfiles/).
 
 ## :joystick: Video games
 
