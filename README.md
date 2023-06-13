@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Damien, also known as Tina on the web. I'm a French computer science student at [EPITECH](https://github.com/Epitech/).
+I am Damien, also known as Tina on the web. I'm an active open source contributor passionate about Linux, Python, and arcade rhythm games.
 
 ## :computer: Computers
 
